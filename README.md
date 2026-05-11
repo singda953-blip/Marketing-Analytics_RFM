@@ -24,7 +24,7 @@ This project segments e-commerce customers using RFM (Recency, Frequency, Moneta
 - Estimated 2-year CLV per segment using avg order value × frequency × time horizon
 - Translated findings into prioritised marketing recommendations
 
-**Tools: ** Python, pandas, matplotlib, seaborn, numpy — Google Colab – AI was utilised for code. 
+**Tools: ** Python, pandas, matplotlib, seaborn, numpy — Google Colab – 
 
 ---
 
@@ -81,5 +81,5 @@ This project segments e-commerce customers using RFM (Recency, Frequency, Moneta
 Built as part of my MSc Marketing Analytics portfolio (EDHEC Business School).  
 Focus area: translating customer data into retention and growth decisions.
 
-[LinkedIn]( Sindhuja Rao) · [Email](sindhuja.kasuganti@edhec.com)
+[LinkedIn]( [Sindhuja Rao](https://www.linkedin.com/in/k-sindhuja-rao-1748b81a3/)) · [Email](sindhuja.kasuganti@edhec.com)
 
